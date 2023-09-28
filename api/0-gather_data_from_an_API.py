@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 """
 This script retrieves data from the JSONPlaceholder API,
-and a list of total tasks and completed tasks
+list of total tasks and completed tasks
 """
 import requests
 import sys
