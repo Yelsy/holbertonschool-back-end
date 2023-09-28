@@ -17,7 +17,7 @@ if __name__ == "__main__":
 
     done_taks = list()
     for todo in todos:
-        """check if each task is completed (based on the 'completed' field). 
+        """check if each task is completed (based on the 'completed' field).
         If it's completed, you add it to the done_tasks"""
         if todo.get('completed'):
             done_taks.append(todo)
